@@ -1,5 +1,5 @@
 # PROJETO CONSTRUINDO UMA TABELA FIPE PARA CONSULTAR VEICULOS #
-- Turma 8 Alura One -
+- Turma 8 Alura One 
 ----------------------------------------------------------------
 
 # Interações para o usuário:
@@ -11,7 +11,7 @@
 -----------------------------------------------------------------
 # RESULTADO #
  
- O programa irá filtrar todos os veiculos e valores escolhidos e seus respectivos valores paa comparação.
+ O programa irá filtrar todos os veiculos e valores escolhidos e seus respectivos valores para comparação.
 
 
 ------------------------------------------------------------------
